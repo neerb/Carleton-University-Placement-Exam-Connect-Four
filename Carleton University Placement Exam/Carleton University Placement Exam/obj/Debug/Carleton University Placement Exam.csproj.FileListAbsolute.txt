@@ -1,0 +1,6 @@
+A:\Second Desktop\C# Projects\Carleton University Placement Exam\Carleton University Placement Exam\bin\Debug\Carleton University Placement Exam.exe.config
+A:\Second Desktop\C# Projects\Carleton University Placement Exam\Carleton University Placement Exam\bin\Debug\Carleton University Placement Exam.exe
+A:\Second Desktop\C# Projects\Carleton University Placement Exam\Carleton University Placement Exam\bin\Debug\Carleton University Placement Exam.pdb
+A:\Second Desktop\C# Projects\Carleton University Placement Exam\Carleton University Placement Exam\obj\Debug\Carleton University Placement Exam.csprojResolveAssemblyReference.cache
+A:\Second Desktop\C# Projects\Carleton University Placement Exam\Carleton University Placement Exam\obj\Debug\Carleton University Placement Exam.exe
+A:\Second Desktop\C# Projects\Carleton University Placement Exam\Carleton University Placement Exam\obj\Debug\Carleton University Placement Exam.pdb
